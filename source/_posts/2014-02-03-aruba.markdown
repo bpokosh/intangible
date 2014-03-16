@@ -1,0 +1,31 @@
+---
+layout: post
+title: Aruba
+date: 2014-02-03 20:00:00 -0400
+comments: true
+categories: 
+---
+After two days at sea we arrived in Aruba. We booked a private ATV tour with [Kini Kini Tours](http://www.kinikinitours.com/).
+
+{% img aligncenter 1024 683 /uploads/2014/03/2014-02-03_07.56.19.jpg %}
+
+Our first stop was the Alto Vista Chapel on the hills above the north shore.
+
+{% img aligncenter 1024 683 /uploads/2014/03/2014-02-03_08.03.38.jpg %}
+
+The Baby Bridge isn't as impressive as the Natural Bridge, formed out of coral limestone, which collapsed in 2005.
+
+{% img aligncenter 1024 683 /uploads/2014/03/2014-02-03_08.20.30.jpg %}
+
+The Bushiribana Ruins is the site of a former gold smelter built in 1825.
+
+{% img aligncenter 1024 683 /uploads/2014/03/2014-02-03_08.42.02.jpg %}
+
+The Ayo Rock Formations were used by the earliest settlers on the island, the Arawak people, to listen for incoming thunderstorms. They carved petroglyphs in to some of the rocks.
+
+{% img aligncenter 1024 683 /uploads/2014/03/2014-02-03_08.51.25.jpg %}
+{% img aligncenter 1024 683 /uploads/2014/03/2014-02-03_08.51.43.jpg %}
+
+The Natural Pool is formed by rock and volcanic stone circles, located on the remote east coast.
+
+{% img aligncenter 1024 683 /uploads/2014/03/2014-02-03_10.04.18.jpg %}
