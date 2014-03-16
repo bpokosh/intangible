@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Intangible Creations]]></title>
+  <link href="http://intangiblecreations.com/atom.xml" rel="self"/>
+  <link href="http://intangiblecreations.com/"/>
+  <updated>2014-03-16T09:39:58-04:00</updated>
+  <id>http://intangiblecreations.com/</id>
+  <author>
+    <name><![CDATA[Brian Pokosh & Dianna Durbin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[5 Weeks Out]]></title>
+    <link href="http://intangiblecreations.com/blog/2014/03/16/5-weeks-out/"/>
+    <updated>2014-03-16T09:37:23-04:00</updated>
+    <id>http://intangiblecreations.com/blog/2014/03/16/5-weeks-out</id>
+    <content type="html"><![CDATA[<p>In less then five weeks we&rsquo;ll be leaving for our longest trip to Europe yet.</p>
+]]></content>
+  </entry>
+  
+</feed>
