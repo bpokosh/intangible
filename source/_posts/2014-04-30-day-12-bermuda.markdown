@@ -1,0 +1,12 @@
+---
+layout: post
+title: Day 12 - Bermuda
+date: 2014-04-30 20:00:00 -0400
+comments: true
+categories: 
+---
+{% img aligncenter 1024 678 /uploads/2014/05/2014-04-30_09.17.18.jpg %}
+
+{% img aligncenter 1024 678 /uploads/2014/05/2014-04-30_09.40.12.jpg %}
+
+{% img aligncenter 1024 678 /uploads/2014/05/2014-04-30_12.48.54.jpg %}

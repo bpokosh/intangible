@@ -1,0 +1,10 @@
+---
+layout: post
+title: Day 1 - Epcot
+date: 2014-04-19 20:00:00 -0400
+comments: true
+categories: 
+---
+{% img aligncenter 1024 768 /uploads/2014/05/2014-04-19_12.15.53.jpg %}
+
+{% img aligncenter 1024 768 /uploads/2014/05/2014-04-19_12.17.36.jpg %}
