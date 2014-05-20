@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 28 - Greenock, Scotland
+title: Day 28 - Loch Lomond, Scotland
 date: 2014-05-16 20:00:00 -0400
 comments: true
 categories: 
