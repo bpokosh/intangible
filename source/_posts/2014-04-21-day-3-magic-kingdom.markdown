@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 3 - Magic Kingdom
-date: 2014-04-21 20:00:00 -0400
+date: 2014-04-21
 comments: true
 categories: 
 ---

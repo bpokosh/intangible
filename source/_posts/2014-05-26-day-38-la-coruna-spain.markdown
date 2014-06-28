@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 38 - La Coruna, Spain
-date: 2014-05-26 20:00:00 -0400
+date: 2014-05-26
 comments: true
 categories: 
 ---

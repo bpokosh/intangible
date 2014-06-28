@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 50 - Madeira, Portugal
-date: 2014-06-07 20:00:00 -0400
+date: 2014-06-07
 comments: true
 categories: 
 ---

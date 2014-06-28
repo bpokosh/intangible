@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Panama City, Panama
-date: 2014-02-06 20:00:00 -0400
+date: 2014-02-06
 comments: true
 categories: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 8 - Princess Cays
-date: 2014-04-26 20:00:00 -0400
+date: 2014-04-26
 comments: true
 categories: 
 ---

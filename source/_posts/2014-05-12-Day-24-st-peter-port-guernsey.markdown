@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 24 - St. Peter Port, Guernsey
-date: 2014-05-12 20:00:00 -0400
+date: 2014-05-12
 comments: true
 categories: 
 ---

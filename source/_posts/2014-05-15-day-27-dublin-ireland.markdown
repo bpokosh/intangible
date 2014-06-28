@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 27 - Dublin, Ireland
-date: 2014-05-15 20:00:00 -0400
+date: 2014-05-15
 comments: true
 categories: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 48 - Tenerife, Canary Islands
-date: 2014-06-05 20:00:00 -0400
+date: 2014-06-05
 comments: true
 categories: 
 ---

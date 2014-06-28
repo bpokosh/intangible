@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 25 - Kinsale, Ireland
-date: 2014-05-13 20:00:00 -0400
+date: 2014-05-13
 comments: true
 categories: 
 ---

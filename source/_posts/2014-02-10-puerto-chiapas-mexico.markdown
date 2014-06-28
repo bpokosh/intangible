@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Puerto Chiapas, Mexico
-date: 2014-02-10 20:00:00 -0400
+date: 2014-02-10
 comments: true
 categories: 
 ---

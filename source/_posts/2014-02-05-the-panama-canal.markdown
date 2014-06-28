@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Panama Canal
-date: 2014-02-05 20:00:00 -0400
+date: 2014-02-05
 comments: true
 categories: 
 ---

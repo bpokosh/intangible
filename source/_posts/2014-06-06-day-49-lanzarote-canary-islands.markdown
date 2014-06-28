@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 49 - Lanzarote, Canary Islands
-date: 2014-06-06 20:00:00 -0400
+date: 2014-06-06
 comments: true
 categories: 
 ---

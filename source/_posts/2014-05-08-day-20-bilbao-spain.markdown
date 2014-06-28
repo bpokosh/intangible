@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 20 - Bilbao, Spain
-date: 2014-05-08 20:00:00 -0400
+date: 2014-05-08
 comments: true
 categories: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 12 - Bermuda
-date: 2014-04-30 20:00:00 -0400
+date: 2014-04-30
 comments: true
 categories: 
 ---

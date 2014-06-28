@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 32 - Edinburgh, Scotland
-date: 2014-05-20 20:00:00 -0400
+date: 2014-05-20
 comments: true
 categories: 
 ---

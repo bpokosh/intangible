@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 52 - Vigo, Spain
-date: 2014-06-09 20:00:00 -0400
+date: 2014-06-09
 comments: true
 categories: 
 ---

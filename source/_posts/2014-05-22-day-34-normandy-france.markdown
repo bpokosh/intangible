@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 34 - Normandy, France
-date: 2014-05-22 20:00:00 -0400
+date: 2014-05-22
 comments: true
 categories: 
 ---

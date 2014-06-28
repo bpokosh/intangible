@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 26 - Belfast, Northern Ireland
-date: 2014-05-14 20:00:00 -0400
+date: 2014-05-14
 comments: true
 categories:
 ---

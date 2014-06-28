@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 47 - Gran Canaria, Canary Islands
-date: 2014-06-04 20:00:00 -0400
+date: 2014-06-04
 comments: true
 categories: 
 ---

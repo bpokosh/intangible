@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 39 - Bilbao, Spain
-date: 2014-05-27 20:00:00 -0400
+date: 2014-05-27
 comments: true
 categories: 
 ---

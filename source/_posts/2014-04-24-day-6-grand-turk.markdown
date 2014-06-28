@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 6 - Grand Turk
-date: 2014-04-24 20:00:00 -0400
+date: 2014-04-24
 comments: true
 categories: 
 ---

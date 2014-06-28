@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 31 - Dunrobin Castle, Scotland
-date: 2014-05-19 20:00:00 -0400
+date: 2014-05-19
 comments: true
 categories: 
 ---

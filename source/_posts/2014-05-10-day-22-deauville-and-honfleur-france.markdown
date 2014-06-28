@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 22 - Deauville and Honfleur, France
-date: 2014-05-10 20:00:00 -0400
+date: 2014-05-10
 comments: true
 categories: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cartagena, Colombia
-date: 2014-02-04 20:00:00 -0400
+date: 2014-02-04
 comments: true
 categories: 
 ---

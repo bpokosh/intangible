@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 9 - Ft. Lauderdale Turnaround
-date: 2014-04-27 20:00:00 -0400
+date: 2014-04-27
 comments: true
 categories: 
 ---
